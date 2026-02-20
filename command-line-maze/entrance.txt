@@ -1,0 +1,3 @@
+Welcome to the Sports & Social Media Maze.
+Start by exploring platforms.
+Go into the platforms folder.

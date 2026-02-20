@@ -1,0 +1,2 @@
+Hint: some folders start with a dot.
+Try listing everything out using special command.
